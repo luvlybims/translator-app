@@ -1,0 +1,22 @@
+{
+  "name": "translator-app",
+  "version": "1.0.0",
+  "description": "a translator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvlybims/translator-app.git"
+  },
+  "keywords": [
+    "translator"
+  ],
+  "author": "Abimbola Aderoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luvlybims/translator-app/issues"
+  },
+  "homepage": "https://github.com/luvlybims/translator-app#readme"
+}
